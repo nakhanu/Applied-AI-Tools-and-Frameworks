@@ -18,13 +18,14 @@ We build, evaluate, and visualize a Decision Tree Classifier to classify flower 
 
 ## 📂 Project Structure
 
+
 Applied-AI-Tools-and-Frameworks/
 ├── notebooks/
-│ └── Classical_ML_with_Scikit-learn.ipynb
+│   └── Classical_ML_with_Scikit-learn.ipynb
 ├── screenshots/
-│ ├── Screenshot 2025-06-22 205540.png ← Pairplot
-│ ├── Screenshot 2025-06-22 205635.png ← Decision Tree Plot
-│ └── Screenshot 2025-06-22 205837.png ← Classification Report
+│   ├── Screenshot 2025-06-22 205540.png ← Pairplot
+│   ├── Screenshot 2025-06-22 205635.png ← Decision Tree Plot
+│   └── Screenshot 2025-06-22 205837.png ← Classification Report
 ├── README.md
 
 
