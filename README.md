@@ -27,9 +27,7 @@ Applied-AI-Tools-and-Frameworks/
 │ └── Screenshot 2025-06-22 205837.png ← Classification Report
 ├── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -70,12 +68,7 @@ The classification report shows strong performance across accuracy, precision, a
 
 ## ✍️ Author
 
-**Sophia Nakhanu**  
-*AI Tools and Applications* – Assignment Part 2, Task 1  
-GitHub: [@nakhanu](https://github.com/nakhanu)
+**AI GROUP-17**  
 
----
 
-## ✅ Status
 
-> 🟢 **Completed** – Ready for submission and review.
