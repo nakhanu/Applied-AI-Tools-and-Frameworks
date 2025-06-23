@@ -82,7 +82,7 @@ This project is a group assignment focused on the real-world application of vari
 
 <p align="center">
   <img src="screenshots/iris_tree (1).png" width="100"/>
-  <img src="predicted_images/image_2_true_2_pred_2.png" width="100"/>
+  <img src="screenshots/iris_pairplot.png" width="100"/>
   <img src="predicted_images/image_3_true_0_pred_0.png" width="100"/>
 </p>
 
