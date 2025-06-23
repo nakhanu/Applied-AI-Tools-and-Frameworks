@@ -84,6 +84,7 @@ This project is a group assignment focused on the real-world application of vari
   <img src="screenshots/iris_tree (1).png" width="100"/>
   <img src="screenshots/iris_pairplot.png" width="100"/>
   <img src="screenshots/Deep Learning Prediction Images.png" width="100"/>
+  <img src="screenshots/sentiment_by_entity.png" width ="100"/>
 </p>
 
 > 💡 Additional screenshots and graphs are included in the final PDF report.
