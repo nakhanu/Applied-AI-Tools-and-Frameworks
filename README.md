@@ -1,75 +1,121 @@
-# 🧠 Classical Machine Learning with Scikit-learn  
-### 🌸 Decision Tree Classifier on the Iris Dataset
+# 🧠 AI Tools Assignment: Mastering the AI Toolkit
 
-This notebook is part of the **AI Tools and Applications Assignment**, showcasing practical classical machine learning with Scikit-learn using the **Iris flower dataset**.  
-We build, evaluate, and visualize a Decision Tree Classifier to classify flower species based on petal and sepal measurements.
+## 📘 Overview
 
----
+This project is a group assignment focused on the real-world application of various AI tools and frameworks. It combines theoretical understanding, practical implementations, and ethical analysis, using tools like **TensorFlow, PyTorch, Scikit-learn, and spaCy**.
 
-## 📌 Objectives
-
-- Understand classical ML using Scikit-learn
-- Load and explore the Iris dataset
-- Train and evaluate a Decision Tree classifier
-- Visualize data distribution and model structure
-- Interpret accuracy, precision, and recall results
+**Theme:** *Mastering the AI Toolkit* 🛠️  
+**Group Members:** *[Thobeka Jali, ]*  
+**Submission Platform:** GitHub + LMS Community  
+**Tools Used:** Google Colab, Jupyter Notebook, Python
 
 ---
 
-## 📂 Project Structure
+## 📌 Assignment Structure
 
+### ✅ Part 1: Theoretical Understanding (30%)
 
-Applied-AI-Tools-and-Frameworks/
-├── notebooks/
-│   └── Classical_ML_with_Scikit-learn.ipynb
-├── screenshots/
-│   ├── Screenshot 2025-06-22 205540.png ← Pairplot
-│   ├── Screenshot 2025-06-22 205635.png ← Decision Tree Plot
-│   └── Screenshot 2025-06-22 205837.png ← Classification Report
-├── README.md
+- **Q1:** Comparison between TensorFlow and PyTorch
+- **Q2:** Use cases for Jupyter Notebooks in AI
+- **Q3:** Advantages of spaCy in NLP
+- **Comparative Analysis:** Scikit-learn vs TensorFlow
 
-
+> 📝 *These answers are compiled in the PDF report attached in the repo.*
 
 ---
 
-## 📊 Data Visualization
+### ✅ Part 2: Practical Implementation (50%)
 
-Visualizing the Iris dataset to understand how well features separate different flower species.
+#### ⚙️ Task 1: Classical ML with Scikit-learn
 
-![Iris Pairplot](screenshots/Screenshot%202025-06-22%20205540.png)
+- **Dataset:** Iris Species Dataset
+- **Goal:** Train a Decision Tree Classifier
+- **Metrics:** Accuracy, Precision, Recall
+- **Deliverable:** `iris_classifier.ipynb`
 
----
+#### 🤖 Task 2: Deep Learning with TensorFlow
 
-## 🌳 Decision Tree Visualization
+- **Dataset:** MNIST Handwritten Digits
+- **Goal:** Build a CNN with >95% accuracy
+- **Highlights:**
+  - Convolutional Neural Network built using TensorFlow/Keras
+  - Test accuracy > 95%
+  - Visualizes predictions for 5 test images
+  - Saves and zips output images
+- **Deliverable:** `mnist_cnn_classifier.ipynb`
 
-A visual representation of the trained model's logic used to classify flower species.
+#### 🧾 Task 3: NLP with spaCy
 
-![Decision Tree](screenshots/Screenshot%202025-06-22%20205635.png)
-
----
-
-## 🧪 Model Evaluation
-
-The classification report shows strong performance across accuracy, precision, and recall.
-
-![Classification Report](screenshots/Screenshot%202025-06-22%20205837.png)
-
----
-
-## 🛠️ Tools & Libraries Used
-
-- Python 3.10+
-- Scikit-learn
-- Pandas
-- Seaborn
-- Matplotlib
-- Jupyter Notebook / Google Colab
+- **Dataset:** Amazon Product Reviews
+- **Goal:** Perform Named Entity Recognition (NER) & Sentiment Analysis
+- **Highlights:**
+  - Extracts product names, brand names using spaCy
+  - Rule-based sentiment scoring (positive/negative)
+- **Deliverable:** `amazon_reviews_ner_sentiment.ipynb`
 
 ---
 
-## ✍️ Author
+### ✅ Part 3: Ethics & Optimization (15%)
 
-**AI GROUP-17**  
+- **Bias Identification:**
+  - Analyzed potential bias in MNIST and Amazon Reviews datasets
+  - Suggested tools like *TensorFlow Fairness Indicators* and spaCy rules to mitigate them
+- **Debugging Challenge:**
+  - Fixed TensorFlow bugs involving shape mismatches and incorrect loss functions
+- **Deliverable:** Included in report: `ethical_analysis_and_debugging.pdf`
+
+---
+
+### ⭐ Bonus Task (10%)
+
+#### 📱 MNIST Web App Deployment
+
+- **Tool Used:** Streamlit / Flask
+- **Functionality:** Upload handwritten digits and see predictions
+- **Deliverable:**
+  - Screenshot included in the report
+  - [Live Demo Link (if hosted)](https://example.com)
+
+---
+
+## 🖼️ Sample Output Gallery
+
+<p align="center">
+  <img src="predicted_images/image_1_true_7_pred_7.png" width="100"/>
+  <img src="predicted_images/image_2_true_2_pred_2.png" width="100"/>
+  <img src="predicted_images/image_3_true_0_pred_0.png" width="100"/>
+</p>
+
+> 💡 Additional screenshots and graphs are included in the final PDF report.
+
+---
+
+## 📎 Submission Checklist
+
+- [x] Well-commented Jupyter Notebooks (Colab-ready)
+- [x] Final PDF report with theory, screenshots & ethical reflections
+- [x] 3-minute presentation video (shared on LMS Community)
+- [x] GitHub Repo with code, notebooks, and documentation
+
+---
+
+## 👩🏾‍💻 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ai-tools-assignment.git
 
 
+2. Open each notebook in Google Colab
 
+3. Follow markdown instructions in each notebook to run and test
+
+## 🤝 Acknowledgements
+
+TensorFlow, PyTorch, Scikit-learn, spaCy
+
+Google Colab (GPU support)
+
+Kaggle & TensorFlow Datasets
+
+[PLP Academy : AI Module]
