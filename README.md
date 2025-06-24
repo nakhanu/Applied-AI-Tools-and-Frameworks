@@ -5,7 +5,7 @@
 This project is a group assignment focused on the real-world application of various AI tools and frameworks. It combines theoretical understanding, practical implementations, and ethical analysis, using tools like **TensorFlow, PyTorch, Scikit-learn, and spaCy**.
 
 **Theme:** *Mastering the AI Toolkit* 🛠️  
-**Group Members:** *[Thobeka Jali, Sophia Nakhanu, Jean ]*  
+**Group Members:** *[Thobeka Jali, Sophia Nakhanu, Jean Guya]*  
 **Submission Platform:** GitHub + LMS Community  
 **Tools Used:** Google Colab, Jupyter Notebook, Python
 
